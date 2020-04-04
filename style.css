@@ -14,6 +14,14 @@
   color: lightgray;
 }
 
+.red-background {
+  background: #e85335;
+}
+
+.blue-background {
+  background: #5891ed;
+}
+
 body {
   background-color: #eef6f8;
   margin: 0;
@@ -117,7 +125,7 @@ body {
   background: #555;
 }
 
-#search-card #search-results div {
+#search-card #search-results .search-element {
   padding: 5px 10px;
   font-family: "Roboto", sans-serif;
   -webkit-transition: .1s;
@@ -125,13 +133,19 @@ body {
   border-bottom: 1px solid lightgray;
 }
 
-#search-card #search-results div:last-child {
+#search-card #search-results .search-element:last-child {
   border-bottom: none;
 }
 
-#search-card #search-results div:hover {
+#search-card #search-results .search-element:hover {
   background-color: lightgray;
   cursor: pointer;
+}
+
+#search-card #search-results .search-element .region {
+  color: gray;
+  display: inline;
+  font-size: 12px;
 }
 
 main {
@@ -247,7 +261,6 @@ main .card {
 }
 
 #graph-card .graph-col {
-  background: #e85335;
   color: white;
   text-align: center;
   font-size: 12px;
@@ -289,15 +302,16 @@ main .card {
   display: -ms-grid;
   display: grid;
   display: none;
-  -ms-grid-rows: (1fr)[7];
-      grid-template-rows: repeat(7, 1fr);
+  -ms-grid-rows: (1fr)[4];
+      grid-template-rows: repeat(4, 1fr);
+  top: 15px;
 }
 
 #graph-card #graph-lines div {
-  border-bottom: 1px dashed gray;
+  border-top: 1px dashed gray;
 }
 
-#graph-card #graph-lines div:nth-last-child(3) {
-  border-bottom: 1px solid gray;
+#graph-card #graph-lines div:last-child {
+  border-bottom: 1px dashed gray;
 }
 /*# sourceMappingURL=style.css.map */

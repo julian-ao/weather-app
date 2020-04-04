@@ -12,7 +12,7 @@ cities = [
     }, 
     {
         "city": "Bergen", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "187194", 
         "iso2": "NO", 
@@ -34,7 +34,7 @@ cities = [
     }, 
     {
         "city": "Trondheim", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "141533", 
         "iso2": "NO", 
@@ -45,7 +45,7 @@ cities = [
     }, 
     {
         "city": "Drammen", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "80153", 
         "iso2": "NO", 
@@ -56,7 +56,7 @@ cities = [
     }, 
     {
         "city": "Skyer", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "73330", 
         "iso2": "NO", 
@@ -67,7 +67,7 @@ cities = [
     }, 
     {
         "city": "Kristiansand", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "52770", 
         "iso2": "NO", 
@@ -78,7 +78,7 @@ cities = [
     }, 
     {
         "city": "Tomasjorda", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "45365", 
         "iso2": "NO", 
@@ -122,7 +122,7 @@ cities = [
     }, 
     {
         "city": "T\u00f8nsberg", 
-        "admin": "Vestfold", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "38914", 
         "iso2": "NO", 
@@ -133,7 +133,7 @@ cities = [
     }, 
     {
         "city": "Moss", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "34492", 
         "iso2": "NO", 
@@ -155,7 +155,7 @@ cities = [
     }, 
     {
         "city": "Arendal", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "30916", 
         "iso2": "NO", 
@@ -166,7 +166,7 @@ cities = [
     }, 
     {
         "city": "Hamar", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "29479", 
         "iso2": "NO", 
@@ -177,7 +177,7 @@ cities = [
     }, 
     {
         "city": "Gj\u00f8vik", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "17596", 
         "iso2": "NO", 
@@ -210,7 +210,7 @@ cities = [
     }, 
     {
         "city": "Lillehammer", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "19096", 
         "iso2": "NO", 
@@ -221,7 +221,7 @@ cities = [
     }, 
     {
         "city": "Harstad", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "18973", 
         "iso2": "NO", 
@@ -243,7 +243,7 @@ cities = [
     }, 
     {
         "city": "Alta", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "12077", 
         "iso2": "NO", 
@@ -254,7 +254,7 @@ cities = [
     }, 
     {
         "city": "Steinkjer", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "11113", 
         "iso2": "NO", 
@@ -265,7 +265,7 @@ cities = [
     }, 
     {
         "city": "Hammerfest", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "9934", 
         "iso2": "NO", 
@@ -276,7 +276,7 @@ cities = [
     }, 
     {
         "city": "Namsos", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "9035", 
         "iso2": "NO", 
@@ -287,7 +287,7 @@ cities = [
     }, 
     {
         "city": "Vossevangen", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "5571", 
         "iso2": "NO", 
@@ -298,7 +298,7 @@ cities = [
     }, 
     {
         "city": "Vads\u00f8", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "5139", 
         "iso2": "NO", 
@@ -320,7 +320,7 @@ cities = [
     }, 
     {
         "city": "Finnsnes", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "3315", 
         "iso2": "NO", 
@@ -331,7 +331,7 @@ cities = [
     }, 
     {
         "city": "Kirkenes", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "2174", 
         "iso2": "NO", 
@@ -342,7 +342,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8rvik", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "2615", 
         "iso2": "NO", 
@@ -353,7 +353,7 @@ cities = [
     }, 
     {
         "city": "Hermansverk", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "1965", 
         "iso2": "NO", 
@@ -364,7 +364,7 @@ cities = [
     }, 
     {
         "city": "Skogsv\u00e5g", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -375,7 +375,7 @@ cities = [
     }, 
     {
         "city": "Noresund", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -397,7 +397,7 @@ cities = [
     }, 
     {
         "city": "Hansnes", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -408,7 +408,7 @@ cities = [
     }, 
     {
         "city": "R\u00e5de", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -430,7 +430,7 @@ cities = [
     }, 
     {
         "city": "\u00c5rdalstangen", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -441,7 +441,7 @@ cities = [
     }, 
     {
         "city": "Rosendal", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -463,7 +463,7 @@ cities = [
     }, 
     {
         "city": "Namdalseid", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -474,7 +474,7 @@ cities = [
     }, 
     {
         "city": "Jaren", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -485,7 +485,7 @@ cities = [
     }, 
     {
         "city": "Hov", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -496,7 +496,7 @@ cities = [
     }, 
     {
         "city": "Krager\u00f8", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -518,7 +518,7 @@ cities = [
     }, 
     {
         "city": "Gratangen", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -540,7 +540,7 @@ cities = [
     }, 
     {
         "city": "Ulefoss", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -551,7 +551,7 @@ cities = [
     }, 
     {
         "city": "V\u00e5ler", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -562,7 +562,7 @@ cities = [
     }, 
     {
         "city": "Dr\u00f8bak", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -573,7 +573,7 @@ cities = [
     }, 
     {
         "city": "Hokksund", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -606,7 +606,7 @@ cities = [
     }, 
     {
         "city": "Tysse", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -628,7 +628,7 @@ cities = [
     }, 
     {
         "city": "Skj\u00e5k", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -639,7 +639,7 @@ cities = [
     }, 
     {
         "city": "V\u00e5g\u00e5", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -650,7 +650,7 @@ cities = [
     }, 
     {
         "city": "\u00c5seral", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -661,7 +661,7 @@ cities = [
     }, 
     {
         "city": "Langesund", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -672,7 +672,7 @@ cities = [
     }, 
     {
         "city": "S\u00f8rumsand", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -694,7 +694,7 @@ cities = [
     }, 
     {
         "city": "Treungen", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -727,7 +727,7 @@ cities = [
     }, 
     {
         "city": "\u00c5l", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -738,7 +738,7 @@ cities = [
     }, 
     {
         "city": "Kongsberg", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -749,7 +749,7 @@ cities = [
     }, 
     {
         "city": "Ski", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -760,7 +760,7 @@ cities = [
     }, 
     {
         "city": "Dale", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -771,7 +771,7 @@ cities = [
     }, 
     {
         "city": "Lyngdal", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -782,7 +782,7 @@ cities = [
     }, 
     {
         "city": "Kongsvinger", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -793,7 +793,7 @@ cities = [
     }, 
     {
         "city": "Br\u00f8stadbotn", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -804,7 +804,7 @@ cities = [
     }, 
     {
         "city": "S\u00f8r-Fron", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -815,7 +815,7 @@ cities = [
     }, 
     {
         "city": "Oppdal", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -826,7 +826,7 @@ cities = [
     }, 
     {
         "city": "Bj\u00f8rkelangen", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -837,7 +837,7 @@ cities = [
     }, 
     {
         "city": "Alvdal", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -848,7 +848,7 @@ cities = [
     }, 
     {
         "city": "Brekstad", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -859,7 +859,7 @@ cities = [
     }, 
     {
         "city": "Iveland", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -870,7 +870,7 @@ cities = [
     }, 
     {
         "city": "Storslett", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -881,7 +881,7 @@ cities = [
     }, 
     {
         "city": "S\u00f8gne", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -892,7 +892,7 @@ cities = [
     }, 
     {
         "city": "Rena", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -903,7 +903,7 @@ cities = [
     }, 
     {
         "city": "Evje", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -925,7 +925,7 @@ cities = [
     }, 
     {
         "city": "Selbu", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -947,7 +947,7 @@ cities = [
     }, 
     {
         "city": "Nannestad", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -969,7 +969,7 @@ cities = [
     }, 
     {
         "city": "Borkenes", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -980,7 +980,7 @@ cities = [
     }, 
     {
         "city": "Bremnes", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -991,7 +991,7 @@ cities = [
     }, 
     {
         "city": "Jevnaker", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1002,7 +1002,7 @@ cities = [
     }, 
     {
         "city": "Bruflat", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1024,7 +1024,7 @@ cities = [
     }, 
     {
         "city": "Kj\u00f8llefjord", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1035,7 +1035,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8yrvik", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1068,7 +1068,7 @@ cities = [
     }, 
     {
         "city": "Hommelvik", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1090,7 +1090,7 @@ cities = [
     }, 
     {
         "city": "Alstad", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1134,7 +1134,7 @@ cities = [
     }, 
     {
         "city": "B\u00f8", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1145,7 +1145,7 @@ cities = [
     }, 
     {
         "city": "Gryllefjord", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1167,7 +1167,7 @@ cities = [
     }, 
     {
         "city": "Gjerstad", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1178,7 +1178,7 @@ cities = [
     }, 
     {
         "city": "Leksvik", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1189,7 +1189,7 @@ cities = [
     }, 
     {
         "city": "Kvalsund", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1200,7 +1200,7 @@ cities = [
     }, 
     {
         "city": "\u00c5s", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1233,7 +1233,7 @@ cities = [
     }, 
     {
         "city": "St\u00f8ren", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1244,7 +1244,7 @@ cities = [
     }, 
     {
         "city": "Meldal", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1266,7 +1266,7 @@ cities = [
     }, 
     {
         "city": "Lena", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1299,7 +1299,7 @@ cities = [
     }, 
     {
         "city": "Skjerv\u00f8y", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1310,7 +1310,7 @@ cities = [
     }, 
     {
         "city": "Skarnes", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1321,7 +1321,7 @@ cities = [
     }, 
     {
         "city": "Dokka", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1332,7 +1332,7 @@ cities = [
     }, 
     {
         "city": "Masfjordnes", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1343,7 +1343,7 @@ cities = [
     }, 
     {
         "city": "Kvinesdal", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1365,7 +1365,7 @@ cities = [
     }, 
     {
         "city": "Isdalst\u00f8", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1387,7 +1387,7 @@ cities = [
     }, 
     {
         "city": "Flekkefjord", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1398,7 +1398,7 @@ cities = [
     }, 
     {
         "city": "Kolvereid", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1409,7 +1409,7 @@ cities = [
     }, 
     {
         "city": "\u00d8ksfjord", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1420,7 +1420,7 @@ cities = [
     }, 
     {
         "city": "Oteren", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1431,7 +1431,7 @@ cities = [
     }, 
     {
         "city": "Honningsv\u00e5g", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1453,7 +1453,7 @@ cities = [
     }, 
     {
         "city": "Tynset", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1464,7 +1464,7 @@ cities = [
     }, 
     {
         "city": "Granvin", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1475,7 +1475,7 @@ cities = [
     }, 
     {
         "city": "S\u00f8rreisa", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1486,7 +1486,7 @@ cities = [
     }, 
     {
         "city": "\u00c5rnes", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1508,7 +1508,7 @@ cities = [
     }, 
     {
         "city": "Troms\u00f8", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1530,7 +1530,7 @@ cities = [
     }, 
     {
         "city": "Lom", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1541,7 +1541,7 @@ cities = [
     }, 
     {
         "city": "Trysil", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1552,7 +1552,7 @@ cities = [
     }, 
     {
         "city": "Bardu", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1574,7 +1574,7 @@ cities = [
     }, 
     {
         "city": "Rong", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1585,7 +1585,7 @@ cities = [
     }, 
     {
         "city": "Burfjord", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1596,7 +1596,7 @@ cities = [
     }, 
     {
         "city": "Koppang", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1618,7 +1618,7 @@ cities = [
     }, 
     {
         "city": "Eidsvoll", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1629,7 +1629,7 @@ cities = [
     }, 
     {
         "city": "Sagstua", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1640,7 +1640,7 @@ cities = [
     }, 
     {
         "city": "Fl\u00e5", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1651,7 +1651,7 @@ cities = [
     }, 
     {
         "city": "Rjukan", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1662,7 +1662,7 @@ cities = [
     }, 
     {
         "city": "Sveio", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1673,7 +1673,7 @@ cities = [
     }, 
     {
         "city": "Karasjok", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1717,7 +1717,7 @@ cities = [
     }, 
     {
         "city": "Hamnvik", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1739,7 +1739,7 @@ cities = [
     }, 
     {
         "city": "Skien", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1750,7 +1750,7 @@ cities = [
     }, 
     {
         "city": "Enebakk", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1761,7 +1761,7 @@ cities = [
     }, 
     {
         "city": "Birkeland", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1772,7 +1772,7 @@ cities = [
     }, 
     {
         "city": "Flisa", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1783,7 +1783,7 @@ cities = [
     }, 
     {
         "city": "Raufoss", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1805,7 +1805,7 @@ cities = [
     }, 
     {
         "city": "Krokstad\u00f8ra", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1816,7 +1816,7 @@ cities = [
     }, 
     {
         "city": "Olderdalen", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1827,7 +1827,7 @@ cities = [
     }, 
     {
         "city": "Eivinvik", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1838,7 +1838,7 @@ cities = [
     }, 
     {
         "city": "H\u00f8yanger", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1849,7 +1849,7 @@ cities = [
     }, 
     {
         "city": "Manger", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1860,7 +1860,7 @@ cities = [
     }, 
     {
         "city": "Balestrand", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1893,7 +1893,7 @@ cities = [
     }, 
     {
         "city": "Breivikbotn", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1904,7 +1904,7 @@ cities = [
     }, 
     {
         "city": "Tana Bru", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1915,7 +1915,7 @@ cities = [
     }, 
     {
         "city": "Hemsedal", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1926,7 +1926,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8mskog", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1937,7 +1937,7 @@ cities = [
     }, 
     {
         "city": "Dale", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1948,7 +1948,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8yken", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1970,7 +1970,7 @@ cities = [
     }, 
     {
         "city": "Os", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1981,7 +1981,7 @@ cities = [
     }, 
     {
         "city": "Hol", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -1992,7 +1992,7 @@ cities = [
     }, 
     {
         "city": "Rygge", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2003,7 +2003,7 @@ cities = [
     }, 
     {
         "city": "Verdal", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2014,7 +2014,7 @@ cities = [
     }, 
     {
         "city": "Lyngseidet", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2025,7 +2025,7 @@ cities = [
     }, 
     {
         "city": "Mandal", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2036,7 +2036,7 @@ cities = [
     }, 
     {
         "city": "S\u00e6tre", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2058,7 +2058,7 @@ cities = [
     }, 
     {
         "city": "Fagernes", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2069,7 +2069,7 @@ cities = [
     }, 
     {
         "city": "Sandane", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2080,7 +2080,7 @@ cities = [
     }, 
     {
         "city": "Heggenes", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2091,7 +2091,7 @@ cities = [
     }, 
     {
         "city": "Odda", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2102,7 +2102,7 @@ cities = [
     }, 
     {
         "city": "Fetsund", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2113,7 +2113,7 @@ cities = [
     }, 
     {
         "city": "Naustdal", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2124,7 +2124,7 @@ cities = [
     }, 
     {
         "city": "Rissa", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2135,7 +2135,7 @@ cities = [
     }, 
     {
         "city": "V\u00e5ler", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2146,7 +2146,7 @@ cities = [
     }, 
     {
         "city": "Hob\u00f8l", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2168,7 +2168,7 @@ cities = [
     }, 
     {
         "city": "Frekhaug", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2190,7 +2190,7 @@ cities = [
     }, 
     {
         "city": "Tvedestrand", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2201,7 +2201,7 @@ cities = [
     }, 
     {
         "city": "\u00c5len", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2223,7 +2223,7 @@ cities = [
     }, 
     {
         "city": "Grong", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2234,7 +2234,7 @@ cities = [
     }, 
     {
         "city": "Sj\u00f8vegan", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2245,7 +2245,7 @@ cities = [
     }, 
     {
         "city": "H\u00f8ylandet", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2256,7 +2256,7 @@ cities = [
     }, 
     {
         "city": "Kyrks\u00e6ter\u00f8ra", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2278,7 +2278,7 @@ cities = [
     }, 
     {
         "city": "Norheimsund", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2289,7 +2289,7 @@ cities = [
     }, 
     {
         "city": "Ulvik", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2300,7 +2300,7 @@ cities = [
     }, 
     {
         "city": "Berlev\u00e5g", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2311,7 +2311,7 @@ cities = [
     }, 
     {
         "city": "\u00d8stre Gausdal", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2333,7 +2333,7 @@ cities = [
     }, 
     {
         "city": "Orkanger", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2344,7 +2344,7 @@ cities = [
     }, 
     {
         "city": "\u00d8rje", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2355,7 +2355,7 @@ cities = [
     }, 
     {
         "city": "F\u00f8rde", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2366,7 +2366,7 @@ cities = [
     }, 
     {
         "city": "\u00c5rnes", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2377,7 +2377,7 @@ cities = [
     }, 
     {
         "city": "Vestby", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2388,7 +2388,7 @@ cities = [
     }, 
     {
         "city": "Otta", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2399,7 +2399,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8yse", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2410,7 +2410,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8dberg", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2421,7 +2421,7 @@ cities = [
     }, 
     {
         "city": "Lampeland", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2432,7 +2432,7 @@ cities = [
     }, 
     {
         "city": "Vang", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2443,7 +2443,7 @@ cities = [
     }, 
     {
         "city": "Lauvsnes", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2454,7 +2454,7 @@ cities = [
     }, 
     {
         "city": "Aurlandsvangen", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2465,7 +2465,7 @@ cities = [
     }, 
     {
         "city": "Gaupne", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2487,7 +2487,7 @@ cities = [
     }, 
     {
         "city": "Spydeberg", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2498,7 +2498,7 @@ cities = [
     }, 
     {
         "city": "Asker", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2509,7 +2509,7 @@ cities = [
     }, 
     {
         "city": "Namsskogan", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2531,7 +2531,7 @@ cities = [
     }, 
     {
         "city": "Fredrikstad", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2542,7 +2542,7 @@ cities = [
     }, 
     {
         "city": "Grimstad", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2564,7 +2564,7 @@ cities = [
     }, 
     {
         "city": "Mj\u00f8ndalen", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2575,7 +2575,7 @@ cities = [
     }, 
     {
         "city": "Fillan", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2586,7 +2586,7 @@ cities = [
     }, 
     {
         "city": "Uggdal", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2597,7 +2597,7 @@ cities = [
     }, 
     {
         "city": "Dovre", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2608,7 +2608,7 @@ cities = [
     }, 
     {
         "city": "Drangedal", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2619,7 +2619,7 @@ cities = [
     }, 
     {
         "city": "Malm", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2641,7 +2641,7 @@ cities = [
     }, 
     {
         "city": "Leknes", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2663,7 +2663,7 @@ cities = [
     }, 
     {
         "city": "Konsmo", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2674,7 +2674,7 @@ cities = [
     }, 
     {
         "city": "Mo", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2685,7 +2685,7 @@ cities = [
     }, 
     {
         "city": "Bagn", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2696,7 +2696,7 @@ cities = [
     }, 
     {
         "city": "Kirken\u00e6r", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2707,7 +2707,7 @@ cities = [
     }, 
     {
         "city": "Ringebu", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2718,7 +2718,7 @@ cities = [
     }, 
     {
         "city": "\u00d8yer", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2729,7 +2729,7 @@ cities = [
     }, 
     {
         "city": "Straume", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2740,7 +2740,7 @@ cities = [
     }, 
     {
         "city": "Austrheim", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2751,7 +2751,7 @@ cities = [
     }, 
     {
         "city": "Kinsarvik", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2762,7 +2762,7 @@ cities = [
     }, 
     {
         "city": "Voss", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2773,7 +2773,7 @@ cities = [
     }, 
     {
         "city": "Stord", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2784,7 +2784,7 @@ cities = [
     }, 
     {
         "city": "Os", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2795,7 +2795,7 @@ cities = [
     }, 
     {
         "city": "Slidre", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2806,7 +2806,7 @@ cities = [
     }, 
     {
         "city": "Eikelandsosen", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2817,7 +2817,7 @@ cities = [
     }, 
     {
         "city": "Lesja", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2839,7 +2839,7 @@ cities = [
     }, 
     {
         "city": "Bykle", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2850,7 +2850,7 @@ cities = [
     }, 
     {
         "city": "Bygland", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2872,7 +2872,7 @@ cities = [
     }, 
     {
         "city": "Storsteinnes", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2883,7 +2883,7 @@ cities = [
     }, 
     {
         "city": "Lonev\u00e5g", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2894,7 +2894,7 @@ cities = [
     }, 
     {
         "city": "Evenskjer", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2905,7 +2905,7 @@ cities = [
     }, 
     {
         "city": "Tennevoll", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2916,7 +2916,7 @@ cities = [
     }, 
     {
         "city": "Marnardal", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2927,7 +2927,7 @@ cities = [
     }, 
     {
         "city": "Sandvika", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2938,7 +2938,7 @@ cities = [
     }, 
     {
         "city": "Selje", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2949,7 +2949,7 @@ cities = [
     }, 
     {
         "city": "L\u00f8ten", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2960,7 +2960,7 @@ cities = [
     }, 
     {
         "city": "Nodeland", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2971,7 +2971,7 @@ cities = [
     }, 
     {
         "city": "Lensvik", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2982,7 +2982,7 @@ cities = [
     }, 
     {
         "city": "Skaland", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -2993,7 +2993,7 @@ cities = [
     }, 
     {
         "city": "Vennesla", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3004,7 +3004,7 @@ cities = [
     }, 
     {
         "city": "Nittedal", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3015,7 +3015,7 @@ cities = [
     }, 
     {
         "city": "Notodden", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3048,7 +3048,7 @@ cities = [
     }, 
     {
         "city": "Halden", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3059,7 +3059,7 @@ cities = [
     }, 
     {
         "city": "Fedje", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3081,7 +3081,7 @@ cities = [
     }, 
     {
         "city": "Sn\u00e5sa", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3092,7 +3092,7 @@ cities = [
     }, 
     {
         "city": "L\u00e6rdals\u00f8yri", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3114,7 +3114,7 @@ cities = [
     }, 
     {
         "city": "Fyresdal", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3125,7 +3125,7 @@ cities = [
     }, 
     {
         "city": "Kl\u00e6bu", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3147,7 +3147,7 @@ cities = [
     }, 
     {
         "city": "Sarpsborg", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3158,7 +3158,7 @@ cities = [
     }, 
     {
         "city": "Seljord", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3191,7 +3191,7 @@ cities = [
     }, 
     {
         "city": "Gjerdrum", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3202,7 +3202,7 @@ cities = [
     }, 
     {
         "city": "Berk\u00e5k", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3213,7 +3213,7 @@ cities = [
     }, 
     {
         "city": "Jondal", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3224,7 +3224,7 @@ cities = [
     }, 
     {
         "city": "Tonstad", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3246,7 +3246,7 @@ cities = [
     }, 
     {
         "city": "Farsund", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3257,7 +3257,7 @@ cities = [
     }, 
     {
         "city": "Sande", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3268,7 +3268,7 @@ cities = [
     }, 
     {
         "city": "Flor\u00f8", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3279,7 +3279,7 @@ cities = [
     }, 
     {
         "city": "Mysen", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3290,7 +3290,7 @@ cities = [
     }, 
     {
         "city": "Etne", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3312,7 +3312,7 @@ cities = [
     }, 
     {
         "city": "Kautokeino", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3323,7 +3323,7 @@ cities = [
     }, 
     {
         "city": "Brumunddal", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3345,7 +3345,7 @@ cities = [
     }, 
     {
         "city": "Botngard", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3367,7 +3367,7 @@ cities = [
     }, 
     {
         "city": "Nordli", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3378,7 +3378,7 @@ cities = [
     }, 
     {
         "city": "Mer\u00e5ker", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3400,7 +3400,7 @@ cities = [
     }, 
     {
         "city": "Svelgen", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3411,7 +3411,7 @@ cities = [
     }, 
     {
         "city": "Jessheim", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3422,7 +3422,7 @@ cities = [
     }, 
     {
         "city": "Kviteseid", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3444,7 +3444,7 @@ cities = [
     }, 
     {
         "city": "Froland", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3455,7 +3455,7 @@ cities = [
     }, 
     {
         "city": "\u00c5s", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3466,7 +3466,7 @@ cities = [
     }, 
     {
         "city": "Eidfjord", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3477,7 +3477,7 @@ cities = [
     }, 
     {
         "city": "Skj\u00e6rhalden", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3488,7 +3488,7 @@ cities = [
     }, 
     {
         "city": "Lakselv", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3499,7 +3499,7 @@ cities = [
     }, 
     {
         "city": "Siljan", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3510,7 +3510,7 @@ cities = [
     }, 
     {
         "city": "H\u00f8nefoss", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3521,7 +3521,7 @@ cities = [
     }, 
     {
         "city": "Rakkestad", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3532,7 +3532,7 @@ cities = [
     }, 
     {
         "city": "M\u00e5l\u00f8y", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3543,7 +3543,7 @@ cities = [
     }, 
     {
         "city": "Hardbakke", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3554,7 +3554,7 @@ cities = [
     }, 
     {
         "city": "Mehamn", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3576,7 +3576,7 @@ cities = [
     }, 
     {
         "city": "Vinstra", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3587,7 +3587,7 @@ cities = [
     }, 
     {
         "city": "Ranemsletta", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3620,7 +3620,7 @@ cities = [
     }, 
     {
         "city": "Vangsvik", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3631,7 +3631,7 @@ cities = [
     }, 
     {
         "city": "Ris\u00f8r", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3642,7 +3642,7 @@ cities = [
     }, 
     {
         "city": "Tolga", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3653,7 +3653,7 @@ cities = [
     }, 
     {
         "city": "Dalen", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3686,7 +3686,7 @@ cities = [
     }, 
     {
         "city": "Stange", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3697,7 +3697,7 @@ cities = [
     }, 
     {
         "city": "Porsgrunn", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3708,7 +3708,7 @@ cities = [
     }, 
     {
         "city": "Nesbyen", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3719,7 +3719,7 @@ cities = [
     }, 
     {
         "city": "Nordfjordeid", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3730,7 +3730,7 @@ cities = [
     }, 
     {
         "city": "Fitjar", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3741,7 +3741,7 @@ cities = [
     }, 
     {
         "city": "B\u00e5tsfjord", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3752,7 +3752,7 @@ cities = [
     }, 
     {
         "city": "Prestfoss", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3763,7 +3763,7 @@ cities = [
     }, 
     {
         "city": "Dun", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3774,7 +3774,7 @@ cities = [
     }, 
     {
         "city": "Melhus", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3796,7 +3796,7 @@ cities = [
     }, 
     {
         "city": "Sistranda", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3829,7 +3829,7 @@ cities = [
     }, 
     {
         "city": "Lier", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3873,7 +3873,7 @@ cities = [
     }, 
     {
         "city": "Skotterud", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3884,7 +3884,7 @@ cities = [
     }, 
     {
         "city": "Hyllestad", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3906,7 +3906,7 @@ cities = [
     }, 
     {
         "city": "Engerdal", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3917,7 +3917,7 @@ cities = [
     }, 
     {
         "city": "Bergset", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3939,7 +3939,7 @@ cities = [
     }, 
     {
         "city": "Stj\u00f8rdal", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3950,7 +3950,7 @@ cities = [
     }, 
     {
         "city": "Sogndal", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3961,7 +3961,7 @@ cities = [
     }, 
     {
         "city": "Askvoll", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3972,7 +3972,7 @@ cities = [
     }, 
     {
         "city": "Hornindal", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3983,7 +3983,7 @@ cities = [
     }, 
     {
         "city": "Skei", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -3994,7 +3994,7 @@ cities = [
     }, 
     {
         "city": "Stryn", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4005,7 +4005,7 @@ cities = [
     }, 
     {
         "city": "L\u00f8renskog", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4016,7 +4016,7 @@ cities = [
     }, 
     {
         "city": "Tr\u00f8gstad", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4027,7 +4027,7 @@ cities = [
     }, 
     {
         "city": "Skiptvet", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4038,7 +4038,7 @@ cities = [
     }, 
     {
         "city": "Folldal", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4049,7 +4049,7 @@ cities = [
     }, 
     {
         "city": "Straumen", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4060,7 +4060,7 @@ cities = [
     }, 
     {
         "city": "Hurdal", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4071,7 +4071,7 @@ cities = [
     }, 
     {
         "city": "Storeb\u00f8", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4082,7 +4082,7 @@ cities = [
     }, 
     {
         "city": "R\u00f8ros", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4093,7 +4093,7 @@ cities = [
     }, 
     {
         "city": "Nesoddtangen", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4115,7 +4115,7 @@ cities = [
     }, 
     {
         "city": "\u00c5mli", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4126,7 +4126,7 @@ cities = [
     }, 
     {
         "city": "Hav\u00f8ysund", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4137,7 +4137,7 @@ cities = [
     }, 
     {
         "city": "Vik\u00f8yri", 
-        "admin": "Sogn og Fjordane", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4159,7 +4159,7 @@ cities = [
     }, 
     {
         "city": "Vard\u00f8", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4181,7 +4181,7 @@ cities = [
     }, 
     {
         "city": "Tingvatn", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4203,7 +4203,7 @@ cities = [
     }, 
     {
         "city": "Elverum", 
-        "admin": "Hedmark", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4214,7 +4214,7 @@ cities = [
     }, 
     {
         "city": "Roan", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4225,7 +4225,7 @@ cities = [
     }, 
     {
         "city": "Steinsdalen", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4236,7 +4236,7 @@ cities = [
     }, 
     {
         "city": "Fossby", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4247,7 +4247,7 @@ cities = [
     }, 
     {
         "city": "Roa", 
-        "admin": "Oppland", 
+        "admin": "Innlandet", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4258,7 +4258,7 @@ cities = [
     }, 
     {
         "city": "B\u00f8rsa", 
-        "admin": "S\u00f8r-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4269,7 +4269,7 @@ cities = [
     }, 
     {
         "city": "Vinje", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4280,7 +4280,7 @@ cities = [
     }, 
     {
         "city": "Sauland", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4291,7 +4291,7 @@ cities = [
     }, 
     {
         "city": "Akkerhaugen", 
-        "admin": "Telemark", 
+        "admin": "Vestfold og Telemark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4302,7 +4302,7 @@ cities = [
     }, 
     {
         "city": "Vigeland", 
-        "admin": "Vest-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4324,7 +4324,7 @@ cities = [
     }, 
     {
         "city": "Kolbotn", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4379,7 +4379,7 @@ cities = [
     }, 
     {
         "city": "Gol", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4390,7 +4390,7 @@ cities = [
     }, 
     {
         "city": "Varangerbotn", 
-        "admin": "Finnmark", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4401,7 +4401,7 @@ cities = [
     }, 
     {
         "city": "Rollag", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4423,7 +4423,7 @@ cities = [
     }, 
     {
         "city": "Vikersund", 
-        "admin": "Buskerud", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4445,7 +4445,7 @@ cities = [
     }, 
     {
         "city": "Moen", 
-        "admin": "Troms", 
+        "admin": "Troms og Finnmark", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4456,7 +4456,7 @@ cities = [
     }, 
     {
         "city": "Levanger", 
-        "admin": "Nord-Tr\u00f8ndelag", 
+        "admin": "Tr\u00f8ndelag", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4478,7 +4478,7 @@ cities = [
     }, 
     {
         "city": "Veg\u00e5rshei", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4489,7 +4489,7 @@ cities = [
     }, 
     {
         "city": "Lillestr\u00f8m", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4500,7 +4500,7 @@ cities = [
     }, 
     {
         "city": "Lillesand", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4522,7 +4522,7 @@ cities = [
     }, 
     {
         "city": "Askim", 
-        "admin": "\u00d8stfold", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4544,7 +4544,7 @@ cities = [
     }, 
     {
         "city": "Valle", 
-        "admin": "Aust-Agder", 
+        "admin": "Agder", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4555,7 +4555,7 @@ cities = [
     }, 
     {
         "city": "Fjerdingby", 
-        "admin": "Akershus", 
+        "admin": "Viken", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4566,7 +4566,7 @@ cities = [
     }, 
     {
         "city": "Kleppest\u00f8", 
-        "admin": "Hordaland", 
+        "admin": "Vestland", 
         "country": "Norway", 
         "population_proper": "", 
         "iso2": "NO", 
@@ -4574,5 +4574,19 @@ cities = [
         "lat": "60.409444", 
         "lon": "5.228611", 
         "population": ""
+    }, 
+    {
+        "city": "Stabekk", 
+        "admin": "Viken", 
+        "country": "Norway",
+        "lat": "59.90838465", 
+        "lon": "10.6014445",
+    }, 
+    {
+        "city": "H\u00f8vik", 
+        "admin": "Viken", 
+        "country": "Norway",
+        "lat": "59.89676195", 
+        "lon": "10.57117145",
     }
 ]
