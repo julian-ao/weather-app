@@ -1,0 +1,303 @@
+.red-text {
+  color: #e85335;
+}
+
+.blue-text {
+  color: #5891ed;
+}
+
+.gray-text {
+  color: gray;
+}
+
+.lightgray-text {
+  color: lightgray;
+}
+
+body {
+  background-color: #eef6f8;
+  margin: 0;
+}
+
+#app {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[12];
+      grid-template-columns: repeat(12, 1fr);
+  margin-top: 25px;
+}
+
+#search-card {
+  grid-column: span 3;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+#search-card #search-input {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  width: 50%;
+  margin: auto;
+  display: block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: .1s;
+  transition: .1s;
+}
+
+#search-card #search-input:focus {
+  outline: 0;
+  border: 1px solid gray;
+}
+
+#search-card #search-input:focus ~ #search-results {
+  display: block;
+}
+
+#search-card #search-input:hover {
+  border: 1px solid gray;
+}
+
+#search-card #search-input:hover ~ #search-results {
+  display: block;
+}
+
+#search-card #search-input::-webkit-input-placeholder {
+  color: gray;
+}
+
+#search-card #search-input:-ms-input-placeholder {
+  color: gray;
+}
+
+#search-card #search-input::-ms-input-placeholder {
+  color: gray;
+}
+
+#search-card #search-input::placeholder {
+  color: gray;
+}
+
+#search-card #search-results {
+  background: white;
+  overflow: auto;
+  height: 200px;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+  display: none;
+  -webkit-transition: .5s;
+  transition: .5s;
+  border-top: 5px solid #eef6f8;
+}
+
+#search-card #search-results:hover {
+  display: block;
+}
+
+#search-card #search-results::-webkit-scrollbar {
+  width: 11px;
+}
+
+#search-card #search-results::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+#search-card #search-results::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+#search-card #search-results::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+#search-card #search-results div {
+  padding: 5px 10px;
+  font-family: "Roboto", sans-serif;
+  -webkit-transition: .1s;
+  transition: .1s;
+  border-bottom: 1px solid lightgray;
+}
+
+#search-card #search-results div:last-child {
+  border-bottom: none;
+}
+
+#search-card #search-results div:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+main {
+  grid-column: span 6;
+}
+
+main .card {
+  width: 100%;
+  margin: auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: white;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  -webkit-box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.27);
+          box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.27);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+#top-card {
+  padding: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#top-card #place-title {
+  font-family: "Montserrat", sans-serif;
+  display: inline;
+  margin: 0;
+}
+
+#top-card #time-top {
+  font-family: "Roboto", sans-serif;
+  color: gray;
+  font-size: 12px;
+  margin-left: 15px;
+}
+
+#top-card #weather-now div {
+  display: inline;
+  margin-left: 15px;
+}
+
+#top-card #weather-now div:last-child {
+  margin-left: 35px;
+}
+
+#top-card #weather-now div p {
+  font-family: "Roboto", sans-serif;
+  display: inline;
+  font-size: 20px;
+}
+
+#top-card #weather-now div #wind-speed-now {
+  margin-right: 10px;
+}
+
+#top-card #weather-now div #wind-direction-now {
+  display: inline-block;
+  margin: 0;
+  font-size: 25px;
+  position: absolute;
+}
+
+#main-card {
+  padding: 0 15px;
+  margin-top: 25px;
+}
+
+#main-card .cell {
+  padding: 15px;
+  font-family: "Roboto", sans-serif;
+  border-bottom: 1px solid lightgray;
+}
+
+#main-card .cell:last-child {
+  border-bottom: none;
+}
+
+#main-card .cell .cell-day {
+  display: inline;
+}
+
+#main-card .cell .cell-right {
+  float: right;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
+  width: 125px;
+}
+
+#main-card .cell .cell-right .cell-temp {
+  text-align: center;
+}
+
+#main-card .cell .cell-right .cell-weather {
+  text-align: center;
+}
+
+#graph-card {
+  padding: 15px 100px;
+  margin-top: 25px;
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+  position: relative;
+}
+
+#graph-card .graph-col {
+  background: #e85335;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  font-family: "Roboto", sans-serif;
+  padding-top: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#graph-card p {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  margin-bottom: 0;
+  color: gray;
+}
+
+#graph-card #graph-grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[7];
+      grid-template-columns: repeat(7, 1fr);
+  grid-column-gap: 50px;
+  position: relative;
+}
+
+#graph-card #graph-days {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[7];
+      grid-template-columns: repeat(7, 1fr);
+  grid-column-gap: 50px;
+}
+
+#graph-card #graph-lines {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: -ms-grid;
+  display: grid;
+  display: none;
+  -ms-grid-rows: (1fr)[7];
+      grid-template-rows: repeat(7, 1fr);
+}
+
+#graph-card #graph-lines div {
+  border-bottom: 1px dashed gray;
+}
+
+#graph-card #graph-lines div:nth-last-child(3) {
+  border-bottom: 1px solid gray;
+}
+/*# sourceMappingURL=style.css.map */

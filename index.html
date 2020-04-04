@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempestas</title>
+
+    <link rel="shortcut icon" href="https://images.vexels.com/media/users/3/145138/isolated/preview/1de68bf333344dc5a6efca43807cfc6d-sun-small-line-beams-icon-by-vexels.png" />
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+    <header>
+        
+    </header>
+
+    <div id="app">
+
+        <div id="search-card">
+            <input id="search-input" type="text" autocomplete="off" placeholder="Søk etter sted...">
+
+            <div id="search-results"></div>
+            
+        </div>
+
+        <main>
+
+            <div class="card" id="top-card">
+                <h1 id="place-title"></h1>
+                <p id="time-top"></p>
+                <div id="weather-now">
+                    <div>
+                        <p id="type-weather-now"></p>
+                    </div>
+                    <div id="temperature-now">
+                        <p id="emoji-now"></p>
+                        <p id="temp-now"></p>
+                    </div>
+                    <div id="wind-now" class="gray-text">
+                        <p id="wind-speed-now"></p>
+                        <p id="wind-direction-now">↓</p>
+                    </div>
+                    <div>
+                        <p id="humidity-now"></p>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="card" id="main-card"></div>
+    
+            <div class="card" id="graph-card">
+                <div id="graph-grid"></div>
+                <div id="graph-days"></div>
+                <div id="graph-lines">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+    
+            <!--<div class="card" id="more-info-card"></div>-->
+            
+        </main>
+
+    </div>
+    
+
+    <script src="cities.js"></script>
+    <script src="app.js"></script>
+
+</body>
+</html>
