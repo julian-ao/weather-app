@@ -141,6 +141,7 @@ body{
 
 main{
     grid-column: span 6;
+    display: none;
 
     .card{
         width: 100%;
@@ -208,6 +209,7 @@ main{
 #main-card{
     padding: 0 15px;
     margin-top: 25px;
+    display: grid;
 
     .cell{
         padding: 15px;
@@ -247,6 +249,7 @@ main{
     margin-top: 25px;
     height: max-content;
     position: relative;
+    display: grid;
 
     .graph-col{
         color: white;

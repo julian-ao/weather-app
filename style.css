@@ -150,6 +150,7 @@ body {
 
 main {
   grid-column: span 6;
+  display: none;
 }
 
 main .card {
@@ -218,6 +219,8 @@ main .card {
 #main-card {
   padding: 0 15px;
   margin-top: 25px;
+  display: -ms-grid;
+  display: grid;
 }
 
 #main-card .cell {
@@ -258,6 +261,8 @@ main .card {
   height: -moz-max-content;
   height: max-content;
   position: relative;
+  display: -ms-grid;
+  display: grid;
 }
 
 #graph-card .graph-col {

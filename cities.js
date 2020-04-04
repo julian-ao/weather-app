@@ -4588,5 +4588,12 @@ cities = [
         "country": "Norway",
         "lat": "59.89676195", 
         "lon": "10.57117145",
+    }, 
+    {
+        "city": "Vollen", 
+        "admin": "Viken", 
+        "country": "Norway",
+        "lat": "59.8090196", 
+        "lon": "10.467734",
     }
 ]
